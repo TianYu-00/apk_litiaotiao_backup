@@ -1,3 +1,3 @@
-# apk_litiaotiao_backup
+# 李跳跳版本备份
 
-backup of 李跳跳apk (ad skip apk)
+推荐下载2.2正式版, 其他版本可以在 [其他版本_OtherVersions] 文件夹里进行下载.

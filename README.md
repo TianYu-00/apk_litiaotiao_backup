@@ -19,3 +19,13 @@
 【安全】无需联网，从源头上杜绝了隐私外泄的可能。  
 【极简】极简设计，傻瓜式操作，懒癌专属。  
 【良心】仅需一个权限。  
+
+## 李跳跳自定义规则
+
+#### 李跳跳自定义规则_Github
+https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules  
+
+#### 李跳跳自定义规则_直接复制
+https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/
+
+

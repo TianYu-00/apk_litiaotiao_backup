@@ -49,4 +49,7 @@ https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules
 #### 李跳跳自定义规则_直接复制
 https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/
 
+#### 李跳跳规则指南
+https://juejin.cn/post/6938590373740544007
+
 
